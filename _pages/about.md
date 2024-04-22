@@ -17,10 +17,8 @@ I'm a Ph.D. student in [Department of Intelligent Systems Engineering](https://e
 
 # Selected publications
 
-**HPDC'23**
-
+**HPDC'23**\
 <span style="color:#f28482"><u>Boyuan Zhang</u></span>, Jiannan Tian, Sheng Di, Xiaodong Yu, Yunhe Feng, Xin Liang, Dingwen Tao, and Franck Cappello. "Fz-gpu: A fast and high-ratio lossy compressor for scientific computing applications on gpus." In Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing, pp. 129-142. 2023.
 
-**ICS'23**
-
+**ICS'23**\
 <span style="color:#f28482"><u>Boyuan Zhang</u></span>, Jiannan Tian, Sheng Di, Xiaodong Yu, Martin Swany, Dingwen Tao, and Franck Cappello. "Gpulz: Optimizing lzss lossless compression for multi-byte data on modern gpus." In Proceedings of the 37th International Conference on Supercomputing, pp. 348-359. 2023.
