@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in [Department of Intelligent Systems Engineering](https://engineering.indiana.edu/about/index.html) at Indiana University Bloomington. I'm a member of HiPDAC lab advised by [Dr. Dingwen Tao](https://www.dingwentao.com/). Before joinging IU, I received my B.S. degree in Information Engineering from Shanghai Jiao Tong University (SJTU) in 2018 and M.S. degree in Electrical Engineering from University of Southern California (USC) in 2020. I did my summer intern at Pacific Northwest National Laboratory in Summer 2023 supervised by [Dr. Nathan R. Tallent](https://www.pnnl.gov/people/nathan-tallent). Contact me at bozhan@iu.edu.
+I'm a Ph.D. student in [Department of Intelligent Systems Engineering](https://engineering.indiana.edu/about/index.html) at Indiana University Bloomington. I'm a member of HiPDAC lab advised by [Dr. Dingwen Tao](https://www.dingwentao.com/). Before joinging IU, I received my B.S. degree in Information Engineering from Shanghai Jiao Tong University (SJTU) in 2018 and M.S. degree in Electrical Engineering from University of Southern California (USC) in 2020. I did my summer intern at Pacific Northwest National Laboratory in Summer 2023 supervised by [Dr. Nathan R. Tallent](https://www.pnnl.gov/people/nathan-tallent).
+* Email: bozhan@iu.edu
+* [CV](https://boyuanzhang62.github.io/files/CV_Boyuan_Zhang.pdf) 
 
 # Research Intersets
 
