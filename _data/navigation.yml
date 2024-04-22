@@ -3,6 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Services"
+    url: /services/
+
+  - title: "Awards"
+    url: /awards/
+  
+  - title: "Tech Blogs"
+    url: /year-archive/
+
   # - title: "Talks"
   #   url: /talks/    
 
