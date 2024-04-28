@@ -5,12 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* National Science Foundation Travel Grants for The International ACM Symposium on High-Performance Parallel and Distributed Computing $2000 (HPDC), 2023
+* Indiana University Bloomington Department of Intelligent Systems Engineering Student Travel Grant $3000, 2022
+* Scholarships of Shanghai Jiao Tong University, 2015-2016
