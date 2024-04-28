@@ -9,23 +9,5 @@ main:
   - title: "Awards"
     url: /awards/
   
-  - title: "Tech Blogs"
-    url: /year-archive/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
+  # - title: "Tech Blogs"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
