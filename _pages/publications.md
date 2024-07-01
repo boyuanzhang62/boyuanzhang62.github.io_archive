@@ -14,10 +14,10 @@ author_profile: true
 **DAC'24**\
 Chenxi Li, <span style="color:#f28482"><u>Boyuan Zhang</u></span>, Yongqiang Duan, Yang Li, Zuochang Ye, Weifeng Liu, Dingwen Tao, and Zhou Jin. "MASC: A Memory-Efficient Adjoint Sensitivity Analysis through Compression Using Novel Spatiotemporal Prediction." In The 61st Annual Design Automation Conference. 2024.
 
-**(Workshop)SC'23**\
+**SC'23** (Workshop)\
 <span style="color:#f28482"><u>Boyuan Zhang</u></span>, Bo Fang, Qiang Guan, Ang Li, and Dingwen Tao. "MEMQSim: Highly Memory-Efficient and Modularized Quantum State-Vector Simulation." In Proceedings of the SC'23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis, pp. 1452-1453. 2023.
 
-**(Workshop)QCCC'23**\
+**QCCC'23** (Workshop)\
 <span style="color:#f28482"><u>Boyuan Zhang</u></span>, Bo Fang, Qiang Guan, Ang Li, and Dingwen Tao. "HQ-Sim: High-performance State Vector Simulation of Quantum Circuits on Heterogeneous HPC Systems." In Proceedings of the 2023 International Workshop on Quantum Classical Cooperative, pp. 1-4. 2023.
 
 **HPDC'23**\
